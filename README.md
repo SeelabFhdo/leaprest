@@ -1,3 +1,3 @@
 # leaprest
 ---
-This is a client software that connects your Leapmotion and OpenHAB by using the OpenHAB Rest-API.
+Ruft die OpenHAB-REST-API auf und gibt so Leapmotion-Angaben an OpenHAB weiter.
